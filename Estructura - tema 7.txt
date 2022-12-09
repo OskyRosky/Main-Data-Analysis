@@ -1,0 +1,8 @@
+-Muestreo                                 ok
+-Componentes principales                  ok
+-Cluster / agrupación                     ok
+-Clasificación  / discriminante           ok
+-Regresión                                ok 
+-Regresión logística
+-Series temporales
+- Análisis espacial 
